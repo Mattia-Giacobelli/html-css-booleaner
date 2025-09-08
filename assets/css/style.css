@@ -3,6 +3,10 @@
 body{
     margin: 0px;
 }
+.container{
+    margin: 0 auto;
+    width: 90%;
+}
 
 /* Header*/
 
@@ -21,4 +25,24 @@ body{
     padding-left: 180px;
     padding-top: 100px;
     
+}
+
+/*main*/
+
+h1{
+    margin: 0px;
+    font-size: 4rem;
+}
+#author{
+    color: #87cff1;
+}
+address{
+    font-style: normal;
+    margin-bottom: 15px;
+}
+figure{
+    margin: 1px 0px;
+}
+figcaption{
+    font-size: 0.7rem;
 }
